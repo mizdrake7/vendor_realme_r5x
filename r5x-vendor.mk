@@ -3538,7 +3538,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     PowerOffAlarm \
     QtiTelephonyService \
-    datastatusnotification \
     embms \
     imssettings \
     uceShimService \

@@ -697,6 +697,20 @@ PRODUCT_COPY_FILES += \
     vendor/realme/r5x/proprietary/vendor/fptmp/libets_teeclient_v2.so:$(TARGET_COPY_OUT_VENDOR)/fptmp/libets_teeclient_v2.so \
     vendor/realme/r5x/proprietary/vendor/fptmp/android.hardware.biometrics.fingerprint@2.1-service.r5x:$(TARGET_COPY_OUT_VENDOR)/fptmp/android.hardware.biometrics.fingerprint@2.1-service.r5x \
     vendor/realme/r5x/proprietary/vendor/firmware/wlan/qca_cld/wlan_mac.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/qca_cld/wlan_mac.bin \
+    vendor/realme/r5x/proprietary/vendor/fptmp/libets_teeclient_v2.so:$(TARGET_COPY_OUT_VENDOR)/fptmp/libets_teeclient_v2.so \
+    vendor/realme/r5x/proprietary/vendor/fptmp/android.hardware.biometrics.fingerprint@2.1-service.r5x:$(TARGET_COPY_OUT_VENDOR)/fptmp/android.hardware.biometrics.fingerprint@2.1-service.r5x \
+    vendor/realme/r5x/proprietary/vendor/firmware/tp/19743/RA170A1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19743/RA170A1.bin \
+    vendor/realme/r5x/proprietary/vendor/firmware/tp/19743/RA170A1.conf:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19743/RA170A1.conf \
+    vendor/realme/r5x/proprietary/vendor/firmware/tp/19743/RA170X1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19743/RA170X1.bin \
+    vendor/realme/r5x/proprietary/vendor/firmware/tp/19743/RA170X1.conf:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19743/RA170X1.conf \
+    vendor/realme/r5x/proprietary/vendor/firmware/tp/19743/ilitek_fw_inx_signed.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19743/ilitek_fw_inx_signed.bin \
+    vendor/realme/r5x/proprietary/vendor/firmware/tp/19743/ilitek_fw_xlgg3_signed.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19743/ilitek_fw_xlgg3_signed.bin \
+    vendor/realme/r5x/proprietary/vendor/firmware/tp/19743/nt_hlt_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19743/nt_hlt_fw.bin \
+    vendor/realme/r5x/proprietary/vendor/firmware/tp/19743/nt_hlt_fw_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19743/nt_hlt_fw_mp.bin \
+    vendor/realme/r5x/proprietary/vendor/firmware/tp/19743/nt_hlt_fw_signed.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19743/nt_hlt_fw_signed.bin \
+    vendor/realme/r5x/proprietary/vendor/firmware/tp/19743/nt_hltg_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19743/nt_hltg_fw.bin \
+    vendor/realme/r5x/proprietary/vendor/firmware/tp/19743/nt_hltg_fw_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19743/nt_hltg_fw_mp.bin \
+    vendor/realme/r5x/proprietary/vendor/firmware/tp/19743/nt_hltg_fw_signed.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/19743/nt_hltg_fw_signed.bin \
     vendor/realme/r5x/proprietary/vendor/lib/android.hardware.camera.provider@2.4-external.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.camera.provider@2.4-external.so \
     vendor/realme/r5x/proprietary/vendor/lib/android.hardware.camera.provider@2.4-legacy.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.camera.provider@2.4-legacy.so \
     vendor/realme/r5x/proprietary/vendor/lib/android.hardware.sensors@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.sensors@2.0-impl.so \

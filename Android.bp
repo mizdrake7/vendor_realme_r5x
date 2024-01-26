@@ -34,11 +34,8 @@ cc_prebuilt_library_shared {
 		android_arm: {
 			srcs: ["proprietary/vendor/lib/libMpeg4SwEncoder.so"],
 		},
-		android_arm64: {
-			srcs: ["proprietary/vendor/lib64/libMpeg4SwEncoder.so"],
-		},
 	},
-	compile_multilib: "both",
+	compile_multilib: "32",
 	check_elf_files: false,
 	prefer: true,
 	soc_specific: true,
